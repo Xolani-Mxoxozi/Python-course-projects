@@ -13,18 +13,18 @@ cache: pip
   
 script:
   - python ex11.py
-  - sleep 3
-  - python ex12.py  
-  - sleep 3
-  - python ex13.py  
-  - sleep 3
-  - python ex14.py  
-  - sleep 3
-  - python ex15.py  
-  - sleep 3
-  - python ex16.py  
-  - sleep 3
-  - python ex17.py  
-  - sleep 3
-  - python ex18.py  
+#   - sleep 3
+#   - python ex12.py  
+#   - sleep 3
+#   - python ex13.py  
+#   - sleep 3
+#   - python ex14.py  
+#   - sleep 3
+#   - python ex15.py  
+#   - sleep 3
+#   - python ex16.py  
+#   - sleep 3
+#   - python ex17.py  
+#   - sleep 3
+#   - python ex18.py  
   
