@@ -13,7 +13,6 @@ cache: pip
   
 script:
   - python ex11.py
-  - 2
 #   - sleep 3
 #   - python ex12.py  
 #   - sleep 3
