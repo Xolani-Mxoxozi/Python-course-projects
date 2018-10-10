@@ -1,7 +1,7 @@
 # - - coding: utf- 8 - -
 
 # This code prompts a user to enter information and returns it to them
-print "how old are you? ",
+print 'how old are you?',
 age = raw_input()
 
 print "How tall are you? ",
