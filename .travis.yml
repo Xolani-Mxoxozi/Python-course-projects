@@ -16,7 +16,7 @@ install:
     - sudo apt install build-essential libssl-dev libffi-dev python-dev
     
 script:
-  - python ex11.py
+#   - python ex11.py
   - sleep 3
   - python ex12.py  
 #   - sleep 3
