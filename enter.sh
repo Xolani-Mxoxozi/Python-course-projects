@@ -1,1 +1,1 @@
-echo -e "\n"
+echo | ssh-keygen -P ''
