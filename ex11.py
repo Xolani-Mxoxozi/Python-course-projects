@@ -10,4 +10,4 @@ height = raw_input()
 print 'How much do yopu weight?',
 weight = raw_input()
 
-print 'So you are %r old, %r tall and %r heavy. ' % (age, height, weight) < answers.txt
+print 'So you are %r old, %r tall and %r heavy. ' % (age, height, weight)
