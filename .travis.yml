@@ -25,6 +25,7 @@ script:
   - python ex20.py test.txt
   - python ex21.py  
   - python ex24.py
+  - sudo chmod testing.sh
   - python < testing.sh
 #   - sleep 3
 #   - testing.sh
