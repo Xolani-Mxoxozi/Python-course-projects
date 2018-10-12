@@ -26,7 +26,7 @@ script:
   - python ex21.py  
   - python ex24.py
 #   - sleep 3
-  - ex25.sh
+  - testing.sh
 #   - ex25.sh
 #   - sleep 3
 #   - python ex18.py  
