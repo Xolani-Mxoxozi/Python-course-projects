@@ -23,7 +23,7 @@ script:
   - python ex18.py
   - python ex19.py
   - python ex20.py test.txt
-#   - python ex16.py  
+  - python ex21.py  
 #   - sleep 3
 #   - python ex17.py  
 #   - sleep 3
