@@ -19,7 +19,7 @@ script:
   - sleep 3
   - python ex13.py stuff things that < answers.txt
 #   - sleep 3
-#   - python ex14.py  
+  - python ex14.py  test < answes2.txt
 #   - sleep 3
 #   - python ex15.py  
 #   - sleep 3
