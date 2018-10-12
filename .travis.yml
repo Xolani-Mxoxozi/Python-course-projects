@@ -4,22 +4,18 @@ sudo: false
 python:
   - "2.7"
   - "3.4"
-#   - "3.5"
-#   - "3.6"
+  - "3.5"
+  - "3.6"
   
 cache: pip
 
 install:
     - pip install -r requirements.txt
-    - sudo apt update
-#     - sudo apt upgrade
     - sudo apt install -y python-pip
     - sudo apt install build-essential libssl-dev libffi-dev python-dev
     - pip install pytest
-#     - pip install -r requirements.txt
     
 script:
-#   - py.test -v --color=yes --exitfirst --showlocals --durations=5
   - python ex11.py  < answers.txt
   - sleep 3
   - python ex12.py  < answers.txt
@@ -35,5 +31,5 @@ script:
 #   - python ex17.py  
 #   - sleep 3
 #   - python ex18.py  
-    - python escapeCharector.py
+#   - python escapeCharector.py
 
