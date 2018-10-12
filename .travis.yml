@@ -27,6 +27,7 @@ script:
   - python ex24.py
 #   - sleep 3
   - python
+  - ex25.sh
 #   - sleep 3
 #   - python ex18.py  
 #   - python escapeCharector.py
