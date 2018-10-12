@@ -21,7 +21,7 @@ script:
   - sleep 3
   - python ex14.py  test < answes2.txt
   - sleep 3
-  - python ex15.py python ex15.py ex15_sample.txt < anwer.txt  
+  - python ex15.py ex15_sample.txt < anwer.txt  
 #   - sleep 3
 #   - python ex16.py  
 #   - sleep 3
