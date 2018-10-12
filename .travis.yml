@@ -21,9 +21,8 @@ install:
 script:
 #   - py.test -v --color=yes --exitfirst --showlocals --durations=5
   - python ex11.py  < answers.txt
-  - python escapeCharector.py
-#   - sleep 3
-  - python ex12.py  
+  - sleep 3
+  - python ex12.py  < answers.txt
 #   - sleep 3
 #   - python ex13.py  
 #   - sleep 3
@@ -36,4 +35,5 @@ script:
 #   - python ex17.py  
 #   - sleep 3
 #   - python ex18.py  
-  
+    - python escapeCharector.py
+
