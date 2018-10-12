@@ -24,6 +24,7 @@ script:
   - python ex19.py
   - python ex20.py test.txt
   - python ex21.py  
+  - python ex24.py
 #   - sleep 3
 #   - python ex17.py  
 #   - sleep 3
