@@ -22,6 +22,7 @@ script:
   - python ex17.py test.txt new_file.txt < enter.sh
   - python ex18.py
   - python ex19.py
+  - python ex20.py test.txt
 #   - python ex16.py  
 #   - sleep 3
 #   - python ex17.py  
