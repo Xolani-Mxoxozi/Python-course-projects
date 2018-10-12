@@ -1,1 +1,1 @@
-echo -ne
+echo -e "\n"
