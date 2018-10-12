@@ -19,6 +19,7 @@ script:
   - python ex14.py  test < answes2.txt
   - python ex15.py ex15_sample.txt < anwer.txt  
   - python ex16.py test.txt < enter.sh
+  - python ex17.py test.txt new_file.txt < enter.sh
 #   - sleep 3
 #   - python ex16.py  
 #   - sleep 3
