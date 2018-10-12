@@ -1,4 +1,4 @@
-#!/bin/python
+#!/usr/bin/python
 
 # python
 import ex25
